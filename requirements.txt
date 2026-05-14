@@ -1,0 +1,5 @@
+numpy
+pillow
+torch
+torchvision
+huggingface_hub
