@@ -28,7 +28,7 @@
 <sup>2</sup>Microsoft Research
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg)](TODO) [![Model](https://img.shields.io/badge/Model-InsightTok-orange.svg)]([TODO](https://huggingface.co/yueyang2000/InsightTok))
+[![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg)](TODO) [![Model](https://img.shields.io/badge/Model-InsightTok-orange.svg)](https://huggingface.co/yueyang2000/InsightTok)
 <!-- [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](TODO) -->
 
 
