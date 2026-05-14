@@ -1,3 +1,6 @@
+
+<div align="center">
+
 # InsightTok
 
 **InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation**
@@ -29,7 +32,7 @@
 <!-- [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](TODO) -->
 
 
-
+</div>
 
 ## Overview
 InsightTok is a discrete visual tokenizer designed to improve the fidelity of **text** and **faces**, two of the most challenging yet perceptually important structures in autoregressive image generation.
