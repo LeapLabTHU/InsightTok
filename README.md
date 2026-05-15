@@ -28,8 +28,7 @@
 <sup>2</sup>Microsoft Research
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg)](TODO) [![Model](https://img.shields.io/badge/Model-InsightTok-orange.svg)](https://huggingface.co/yueyang2000/InsightTok)
-<!-- [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](TODO) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2605.14333-b31b1b.svg)](http://arxiv.org/abs/2605.14333) [![Model](https://img.shields.io/badge/Model-InsightTok-orange.svg)](https://huggingface.co/yueyang2000/InsightTok)
 
 
 </div>
@@ -116,7 +115,7 @@ If you find this work useful, please consider citing our paper.
 @article{yue2026insighttok,
   title={InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation},
   author={Yue, Yang and Wei, Fangyun and He, Tianyu and Zhao, Jinjing and Ni, Zanlin and Liu, Zeyu and Guo, Jiayi and Shi, Lei and Dong, Yue and Chen, Li and Li, Ji and Huang, Gao and Chen, Dong},
-  journal={arXiv preprint arXiv:TODO},
+  journal={arXiv preprint arXiv:2605.14333},
   year={2026}
 }
 ```
